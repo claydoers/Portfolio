@@ -12,5 +12,8 @@ This repo contains numerous projects that I have worked on using various technol
 My background initially started with using more traditional data tools such as Oracle DB, Shell Scripting, Linux/UNIX, and various visual ETL Tools. Since then it has evolved quite a bit with all the new exciting technologies the data world has to offer. This portfolio will focus primarily on showcasing my projects and work utilizing modern tools & technologies. 
 
 ## Projects
-[Youtube Analysis Project (AWS)](#headers)
-<a name="headers"/>
+<ul>
+    <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">Trending Youtube Videos Data Analysis Project</a></li>
+</ul>
+
+
