@@ -16,4 +16,9 @@ My background initially started with using more traditional data tools such as O
     <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">Trending Youtube Videos Data Analysis Project</a></li>
 </ul>
 
+<ul>
+    <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project</a></li>
+</ul>
+
+
 
