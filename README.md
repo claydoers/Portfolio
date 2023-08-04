@@ -7,7 +7,7 @@
 --------------------------------------------------------------
 ## Introduction
 
-This repo contains numerous projects that I have worked on using various technologies. Some of the tools the projects utilize are Python, PostgreSQL, Spark, Snowflake, Superset, Airflow, Tablaeu, and various AWS services. 
+This repo contains numerous projects that I have worked on using various technologies. Some of the tools the projects utilize are Python, PostgreSQL, Mage, Google Cloud, Spark, Snowflake, Superset, Airflow, Tablaeu, and various AWS services. 
 
 My background initially started with using more traditional data tools such as Oracle DB, Shell Scripting, Linux/UNIX, and various visual ETL Tools. Since then it has evolved quite a bit with all the new exciting technologies the data world has to offer. This portfolio will focus primarily on showcasing my projects and work utilizing modern tools & technologies. 
 
