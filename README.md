@@ -17,8 +17,14 @@ My background initially started with using more traditional data tools such as O
 </ul>
 
 <ul>
+    <li><a href="https://github.com/claydoers/uber-modern-data-analytics-project" target="_blank">Uber Data Analytics - Modern Data Eng GCP Project </a></li>
+</ul>
+
+<ul>
     <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project</a></li>
 </ul>
+
+
 
 
 
