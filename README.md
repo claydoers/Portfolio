@@ -7,7 +7,7 @@
 --------------------------------------------------------------
 ## Introduction
 
-This repo contains numerous projects that I have worked on using various technologies. Some of the tools the projects utilize are AWS Services, Python, PostgreSQL, Various ETL tools, GCP Services, Spark, Snowflake, Airflow, Superset and Tablaeu. 
+This repo contains numerous projects that I have worked on using various technologies. Some of the tools the projects utilize are AWS Services, Python, PostgreSQL, Apache Kafka, Various ETL tools, GCP Services, Spark, Snowflake, Airflow, Superset and Tablaeu. 
 
 My background initially started with using more traditional data tools such as Oracle DB, Shell Scripting, Linux/UNIX, and various visual ETL Tools. Since then it has evolved quite a bit with all the new exciting technologies the data world has to offer. This portfolio will focus primarily on showcasing my projects and work utilizing modern tools & technologies. 
 
@@ -21,9 +21,12 @@ My background initially started with using more traditional data tools such as O
 </ul>
 
 <ul>
-    <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project</a></li>
+    <li><a href="https://github.com/claydoers/stock-market-real-time-streaming-project" target="_blank">Stock Market Kafka - Real Time Streaming Project </a></li>
 </ul>
 
+<ul>
+    <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project</a></li>
+</ul>
 
 
 
