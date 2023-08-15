@@ -13,7 +13,7 @@ My background initially started with using more traditional data tools such as O
 
 ## Projects
 <ul>
-    <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">Trending Youtube Videos Data Analysis Project</a></li>
+    <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">Trending Youtube Videos Data Analysis Project (AWS)</a></li>
 </ul>
 
 <ul>
@@ -27,8 +27,6 @@ My background initially started with using more traditional data tools such as O
 <ul>
     <li><a href="https://github.com/claydoers/Instacart-data-pipeline-analysis-project" target="_blank">Instacart - Data Pipeline & Analysis Project (Snowflake & Tableau) </a></li>
 </ul>
-
-
 
 <ul>
     <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project</a></li>
