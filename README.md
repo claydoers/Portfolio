@@ -13,7 +13,7 @@ My background initially started with using more traditional data tools such as O
 
 ## Projects
 <ul>
-    <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">Trending Youtube Videos Data Analysis Project (AWS)</a></li>
+    <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">YouTube Analysis End-To-End Project using Python and AWS</a></li>
 </ul>
 
 <ul>
