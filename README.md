@@ -17,11 +17,11 @@ My background initially started with using more traditional data tools such as O
 </ul>
 
 <ul>
-    <li><a href="https://github.com/claydoers/uber-modern-data-analytics-project" target="_blank">Uber Data Analytics - Modern Data Eng GCP Project </a></li>
+    <li><a href="https://github.com/claydoers/uber-modern-data-analytics-project" target="_blank">Uber Data Analytics - Modern Data Eng GCP Project (Cloud Storage/BigQuery/Mage/Looker) </a></li>
 </ul>
 
 <ul>
-    <li><a href="https://github.com/claydoers/stock-market-real-time-streaming-project" target="_blank">Stock Market Kafka - Real Time Streaming Project </a></li>
+    <li><a href="https://github.com/claydoers/stock-market-real-time-streaming-project" target="_blank">Stock Market Kafka - Real Time Streaming Project (AWS/Python/Kafka) </a></li>
 </ul>
 
 <ul>
@@ -29,7 +29,7 @@ My background initially started with using more traditional data tools such as O
 </ul>
 
 <ul>
-    <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project</a></li>
+    <li><a href="https://github.com/claydoers/de-twitter-analysis-project" target="_blank">Twitter Data Pipeline Project (Python/AWS/Airflow)</a></li>
 </ul>
 
 
