@@ -13,6 +13,10 @@ My background initially started with using more traditional data tools such as O
 
 ## Projects
 <ul>
+    <li><a href="https://github.com/claydoers/tokyo-olympics-project" target="_blank">Tokyo Olympics Project End-To-End Project using Azure and Spark</a></li>
+</ul>
+
+<ul>
     <li><a href="https://github.com/claydoers/de-youtube-analysis-project#readme" target="_blank">YouTube Analysis End-To-End Project using Python and AWS</a></li>
 </ul>
 
