@@ -1,4 +1,4 @@
-# Data Engineering Portfolio
+# Portfolio
 
 <p align="center">
     <img src="https://github.com/claydoers/Portfolio/assets/109707159/a352dacb-c89c-4c48-ac92-b7ef5543c985"></center>
